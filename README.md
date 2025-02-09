@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ibaad 👋
 
 <!--
 **Ibaad0818/Ibaad0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-  CS Major at UVA 🎓
+-  Working on cool projects 🤫
+-  Love coding, design, and tech-related stuff! 💻
